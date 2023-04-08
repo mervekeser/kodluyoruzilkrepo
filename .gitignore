@@ -1,1 +1,7 @@
 ../../.DS_Store
+
+# img
+*.img
+*.jpg
+*.png
+img/
